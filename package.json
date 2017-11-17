@@ -20,7 +20,8 @@
     "url": "https://github.com/Shinkei/SopaDeVainilla/issues"
   },
   "homepage": "https://github.com/Shinkei/SopaDeVainilla#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "http-server": "^0.10.0"
   }
 }
