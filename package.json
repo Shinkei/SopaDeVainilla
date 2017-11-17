@@ -1,0 +1,26 @@
+{
+  "name": "sopadevainilla",
+  "version": "1.0.0",
+  "description": "Single Page Application hecha con Javascript Vanilla",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinkei/SopaDeVainilla.git"
+  },
+  "keywords": [
+    "spa",
+    "javascript"
+  ],
+  "author": "Jorge I. Ramírez <ing.jorgeivanramirezh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shinkei/SopaDeVainilla/issues"
+  },
+  "homepage": "https://github.com/Shinkei/SopaDeVainilla#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
